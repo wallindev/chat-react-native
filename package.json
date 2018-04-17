@@ -1,0 +1,24 @@
+{
+  "name": "chat-react-native",
+  "version": "0.0.1",
+  "description": "New react native version of the chat application for mobile devices",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallindev/chat-react-native.git",
+    "url-bitbucket": "git+https://bitbucket.org/wallindev/chat-react-native.git"
+  },
+  "keywords": [
+    "chat",
+    "react-native",
+    "mobile",
+    "node.js",
+    "socket.io"
+  ],
+  "author": "Mikael Wallin, wallindev",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/wallindev/chat-react-native#readme"
+}

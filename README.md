@@ -4,15 +4,13 @@ New react native version of the chat application for mobile devices
 
 ## Installation
 
-This is a [Node.js](https://nodejs.org/) module available through the 
-[npm registry](https://www.npmjs.com/). It can be installed using the 
-[`npm`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)
-or 
-[`yarn`](https://yarnpkg.com/en/)
-command line tools.
+Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
 
 ```sh
-npm install chat-react-native --save
+git clone https://github.com/wallindev/chat-react-native.git
+cd chat-react-native
+npm install
+npm start
 ```
 
 ## Dependencies
